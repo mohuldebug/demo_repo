@@ -2,6 +2,7 @@ This is file1.
 
 Good morning.
 
+<<<<<<< HEAD
 Good evening and one more change done in branch1
 
 Hello
@@ -12,3 +13,8 @@ Good evening and bye
 Hello
 
 Good
+=======
+Good evening and bye
+
+Hello
+>>>>>>> 3e5907d (Update file1.txt)
